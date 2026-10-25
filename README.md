@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
@@ -19,3 +20,37 @@ If you are developing a production application, we recommend using TypeScript wi
 # my-portfolio
 Personal portfolio website showcasing my frontend development skills, projects, and experience using HTML, CSS, JavaScript, and React.
 >>>>>>> 6fe368d0dd7c679ab39f43dd328d8cbf75e698a7
+=======
+# My Portfolio
+
+Welcome to my personal portfolio!
+
+I am a Frontend Developer skilled in HTML, CSS, JavaScript, and React.
+
+## Technologies Used
+
+* HTML
+* CSS
+* JavaScript
+* React
+* Vite
+
+## Features
+
+* About Me
+* Skills
+* Projects
+* Contact Information
+
+## Getting Started
+
+To run this project locally:
+
+1. Clone the repository.
+2. Install dependencies using `npm install`.
+3. Start the development server using `npm run dev`.
+
+## Author
+
+Atiqa Saif
+>>>>>>> b2a4dcf4d127b485c2d5d0bcc857b8f44b6847fb
